@@ -1,0 +1,12 @@
+# mysql 配置
+mysql:
+  host: 10.10.103.18
+  username: root
+  password: super123
+
+# kafka 配置
+bootstrap:
+  servers: 156.255.105.4
+
+test: aaaa
+
